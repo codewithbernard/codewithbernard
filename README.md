@@ -32,7 +32,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 ### 📫 How to reach me
 
 <div display="flex">
-  [<img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>](https://twitter.com/CodeWithBernard)
+  [![Twitter](https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CodeWithBernard)
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/codewithbernard/)
   [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>](https://medium.com/@bernardbad)
 </div>
